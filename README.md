@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Toan Nguyen
 
 ## 👨‍💻 About Me:
@@ -12,8 +11,6 @@ I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city.
 ### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,godot,cpp,git,java,spring,react,js,html,css,vue)](https://skillicons.dev)
 
-
-
 ---
 
 ### 💻 Connect with me:
@@ -23,6 +20,7 @@ I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city.
 ---
 
 ### 💡 GitHub Stats:
-
-![Streak Graph](https://streak-stats.demolab.com?user=ttoannguyen&locale=en&mode=daily&hide_border=false&border_radius=5&order=3)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://streak-stats.demolab.com?user=ttoannguyen&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" alt="streak graph" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph" height="160" />
+</div>
