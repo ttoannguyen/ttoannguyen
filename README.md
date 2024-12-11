@@ -26,9 +26,3 @@ I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city.
 
 ![Streak Graph](https://streak-stats.demolab.com?user=ttoannguyen&locale=en&mode=daily&hide_border=false&border_radius=5&order=3)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false)
-
----
-
-### 📝 Latest Medium Posts:
-
-![Medium Posts](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ttoannguyen&theme=default)
