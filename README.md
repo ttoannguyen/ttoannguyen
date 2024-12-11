@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**ttoannguyen/ttoannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Toan Nguyen
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me:
+I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning game programming with C# and Unity.  
+⚡ In my free time, I usually watch movies and go traveling.
+
+---
+
+### My Skills:
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,godot,cpp,git,java,spring,react,js,html,css,vue)](https://skillicons.dev)
+
+
+
+---
+
+### 💻 Connect with me:
+- Gmail: [nttoan189@gmail.com](mailto:nttoan189@gmail.com)  
+- Facebook: [Nguyen Thanh Toan](https://fb.com/03nttoan)
+
+---
+
+### 💡 GitHub Stats:
+
+![Streak Graph](https://streak-stats.demolab.com?user=ttoannguyen&locale=en&mode=daily&hide_border=false&border_radius=5&order=3)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false)
+
+---
+
+### 📝 Latest Medium Posts:
+
+![Medium Posts](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ttoannguyen&theme=default)
