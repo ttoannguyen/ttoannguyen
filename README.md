@@ -20,7 +20,7 @@ I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city.
 ---
 
 ### 💡 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/ttoannguyen"><img src="https://github-readme-streak-stats.herokuapp.com?user=ttoannguyen" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph" height="160" />
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ttoannguyen" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttoannguyen&langs_count=10&show_icons=true&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
 </div>
