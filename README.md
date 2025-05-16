@@ -9,7 +9,7 @@ I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city.
 ---
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,godot,cpp,git,java,spring,react,js,html,css,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,cs,unity,godot,cpp,git,js,html,css,vue)](https://skillicons.dev)
 
 ---
 
