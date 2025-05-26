@@ -4,6 +4,7 @@
 I'm Nguyễn Thanh Toàn, a passionate software developer based in Can Tho city. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
 
 📚 Currently learning full-stack web development with Java Spring Boot and React.js.
+
 ⚡ In my free time, I usually watch movies and go traveling.
 
 ---
